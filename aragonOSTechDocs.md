@@ -2,7 +2,7 @@
 
 Version history: 0.1 
 
-Date: January 11, 2018 
+Date: February 2, 2018 
 
 ## AragonOS 
 ### *Version 0.1*
